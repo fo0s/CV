@@ -30,6 +30,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
+<<<<<<< HEAD
+### Makers Academy (February 2018 - Present)
+=======
 #### Makers Academy (February 2018 - Present)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
@@ -41,41 +44,44 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+<<<<<<< HEAD
+### edX - Online University level courses (2017 - 2018)
+=======
 #### edX - Online University level courses (2017 - 2018)
 > The Massachusetts Institute of Technology and Harvard University created edX
 > in May 2012. edX is a massive open online course (MOOC) provider. It hosts
 > online university-level courses in a wide range of disciplines to a
 > worldwide student body.
 
-##### **MIT** - Introduction to Computer Science and Programming using Python
+##### MIT - Introduction to Computer Science and Programming using Python
 - Simple `algorithms`, `testing` and `debugging`
 - Introduction to algorithmic complexity
 - `Data structures`
 
-##### **RIT** - Cyber Security Risk Management
+##### RIT - Cyber Security Risk Management
 - Information security risk management framework and methodologies
 - Identifying and modelling information `security` risks
 - Qualitative and quantitative risk assessment methods
 - Articulating information security risks as business consequences
 
-##### **RIT** - Cyber Security Fundamentals
+##### RIT - Cyber Security Fundamentals
 - `Network` and system administration fundamentals
 - Information assurance fundamentals such as confidentiality,
   integrity and availability, etc.
 - Basic `cryptography` concepts
 
-##### **RIT** - Network Security
+##### RIT - Network Security
 - Examined the various areas of `network security` including
   intrusion detection, evidence collection and defence against
   cyber attacks
 - Examined the resources available to both intruders and data
   network administrators to see their effects.
 
-##### **RIT** - Cyber Security Capstone
+##### RIT - Cyber Security Capstone
 - A platform designed to practice and implement lessons learnt
   in the previous Cyber Security courses.
 
-#### Udemy - Online courses (2017 - 2018)
+### Udemy - Online courses (2017 - 2018)
 > Udemy.com is an online learning platform. It is aimed at professional adults.
 > No Udemy courses are currently credentialed for college credit;
 > students take courses largely as a means of improving job-related skills.
@@ -97,3 +103,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## When I'm not Programming
+
+I have a fascination with all things fermentation. A plethora of bubbling jars
+in my kitchen eventually turn into breads, pickles or wines. When I’m not
+playing food scientist or in front on the computer, I’m out running,
+skateboarding or taking something apart to see how it works.
