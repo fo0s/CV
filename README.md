@@ -30,7 +30,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
+<<<<<<< HEAD
 ### Makers Academy (February 2018 - Present)
+=======
+<<<<<<< HEAD
+### Makers Academy (February 2018 - Present)
+=======
+#### Makers Academy (February 2018 - Present)
+>>>>>>> 25469458f324794d346cf8ebaf1c30f415ae8d7e
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -41,8 +48,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+<<<<<<< HEAD
 ### edX - Online University level courses (2017 - 2018)
 
+=======
+<<<<<<< HEAD
+### edX - Online University level courses (2017 - 2018)
+=======
+#### edX - Online University level courses (2017 - 2018)
+>>>>>>> 25469458f324794d346cf8ebaf1c30f415ae8d7e
 > The Massachusetts Institute of Technology and Harvard University created edX
 > in May 2012. edX is a massive open online course (MOOC) provider. It hosts
 > online university-level courses in a wide range of disciplines to a
