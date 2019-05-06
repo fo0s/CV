@@ -47,8 +47,8 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 | Link | Summary | Technologies used | Status |
 | :---: | :---: | :---: | :---: |
-| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words <br>(poem, book, novel, series of books). On completion, <br>the application then starts it's cycle by randomly generating a string of letters for possible websites. <br>If a hit is found, all the words are scraped off the site and compared to the inputed list. <br>The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
-| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone.<br> We wanted to give it a MySpace feel with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | ![Progress](http://progressed.io/bar/60?title=done) |
+| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). <br>A user loads in a set of words <br>(poem, book, novel, series of books).<br>On completion, the application then<br> starts it's cycle by randomly generating<br> a string of letters for possible websites. <br>If a hit is found, all the words are<br> scraped off the site and compared to the inputed list. <br>The cycle continues until every <br>word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
+| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone.<br> We wanted to give it a MySpace feel <br>with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | ![Progress](http://progressed.io/bar/60?title=done) |
 
 </p>
 </details>
