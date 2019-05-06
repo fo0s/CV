@@ -1,19 +1,18 @@
 
-<h1><a name="cv"><img align="left" src="./Images/cv.png" height="50"/></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="150"/></a></h1>
+<h1><a name="cv"><img align="left" src="./Images/cv.png" height="45"/></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="80"/></a></h1>
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:biernat.bart@gmail.com">Bart Biernat</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 <br><br>
 <p align="center" ><a name="journey"><img src="./Images/logo.png"/></a></p>
 
-**A web version of this CV can be found** [HERE](https://fo0s.github.io/)
 
 # Bart Biernat
 > Programmer in training
 
 I am a `solution-oriented` and `proactive` person who is looking to harness my passion for `programming` in a change of career.
 
-I believe development is fundamentally a technical manifestation of very specific skill sets that requires you to constantly question the world around you. I have a `natural curiosity` for how things work; from taking apart a mobile handset to writing automated scripts which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
+I believe development is fundamentally a technical manifestation of very specific skill sets that requires you to constantly question the world around you. I have a `natural curiosity` for how things work; from taking apart mobile handsets to `penetration testing` and `bug bounties` which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
 
-I frequently attend lectures and conferences to keep up to date with the fast paced changes in the technology.
+I frequently attend lectures and conferences to keep up to date with the fast paced changes in technology.
 
 **Please click one of the dropdowns below to expand them**
 
@@ -145,3 +144,5 @@ skateboarding, climbing or taking something apart to see how it works.
 
 </p>
 </details>
+
+**A web version of this CV can be found** [HERE](https://fo0s.github.io/)
