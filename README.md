@@ -27,22 +27,15 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 | A platform used to store code and <br>colaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose<br> programming language. | JavaScript often abbreviated as JS, <br>is a high-level, interpreted programming <br>language that conforms to the <br>ECMAScript specification. |
 | Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
 
-#### Ruby
+<br>
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+| **Blockchain technology** | **Cyber security** | **Leadership** |
+| :---: | :---: | :---: |
+| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/90?title=Skill%20level) |
+| A blockchain is a growing list of records, <br>called blocks, which are linked <br>using cryptography. | The protection of computer systems from <br>theft or damage to their hardware, software <br>or electronic data, as well as from disruption<br> or misdirection of the services they provide. | Leadership is both a research area and<br> a practical skill encompassing the ability <br>of an individual or organization to "lead" <br>or guide other individuals, teams, or<br> entire organizations. |
+| Built and utilised multiple <br>mining rigs from scratch,<br>Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br>Blockchain Architecture,<br>Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the running <br>of the business. 
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+<br>
 
 </p>
 </details>
@@ -54,8 +47,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 | Link | Summary | Technologies used | Status |
 | :---: | :---: | :---: | :---: |
-| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). The application then starts it's cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words are scraped off the site and compared to the inputed list. The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | WIP |
-| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Rails, CSS, AWS Elastic Beanstalk | WIP |\\\s
+| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). The application then starts it's cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words are scraped off the site and compared to the inputed list. The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
+| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Rails, CSS, AWS Elastic Beanstalk | ![Progress](http://progressed.io/bar/60?title=done) |
 
 </p>
 </details>
@@ -77,7 +70,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 
-#### edX - Online University level courses (2017 - 2018)
+### edX - Online University level courses (2017 - 2018)
 
 > The Massachusetts Institute of Technology and Harvard University created edX
 > in May 2012. edX is a massive open online course (MOOC) provider. It hosts
