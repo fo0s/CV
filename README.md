@@ -1,3 +1,9 @@
+
+<h1><a name="cv"><img align="left" src="./Images/cv.png" height="80"/></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="150"/></a></h1>
+<h4 align="right">email&nbsp;:&nbsp;<a href="mailto:biernat.bart@gmail.com">Bart Biernat</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+<br><br>
+<p align="center" ><a name="journey"><img src="./Images/interview.jpg" width="400"/></a></p>
+
 **A web version of this CV can be found** [HERE](https://fo0s.github.io/)
 
 # Bart Biernat
@@ -5,9 +11,14 @@
 
 I am a `solution-oriented` and `proactive` person who is looking to harness my passion for `programming` in a change of career.
 
-Development is fundamentally a technical manifestation of a business problem and requires you to constantly question the world around you. I have a `natural curiosity` for how things work; from taking apart a mobile handset to writing automated scripts which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
+I believe development is fundamentally a technical manifestation of very specific skill sets that requires you to constantly question the world around you. I have a `natural curiosity` for how things work; from taking apart a mobile handset to writing automated scripts which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
 
 I frequently attend lectures and conferences to keep up to date with the fast paced changes in the technology.
+
+**Please click one of the dropdowns below to expand them**
+
+<details><summary>Skills</summary>
+<p>
 
 ## Skills
 
@@ -27,6 +38,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+</p>
+</details>
+
+<details><summary>Projects</summary>
+<p>
+
+## Projects
+
+</p>
+</details>
+
+<details><summary>Education</summary>
+<p>
 
 ## Education
 
@@ -92,6 +117,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ##### The complete javascript course
 - `Javascript` fundamentals from `ES5` to `ES7`. Touching on `CSS` and `HTML`
 
+</p>
+</details>
+
+<details><summary>Experience</summary>
+<p>
 
 ## Experience
 
@@ -100,9 +130,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Company Name** (start_date to end_date)   
 *Your job title*  
 
-## When I'm not Programming
+</p>
+</details>
+
+<details><summary>When I'm not programming</summary>
+<p>
+
+## When I'm not programming
 
 I have a fascination with all things fermentation. A plethora of bubbling jars
 in my kitchen eventually turn into breads, pickles or wines. When I’m not
 playing food scientist or in front on the computer, I’m out running,
-skateboarding or taking something apart to see how it works.
+skateboarding, climbing or taking something apart to see how it works.
+
+</p>
+</details>
