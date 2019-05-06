@@ -6,7 +6,7 @@
 
 
 # Bart Biernat
-> Programmer in training
+> Level: Programmer in training
 
 I am a `solution-oriented` and `proactive` person who is looking to harness my passion for `programming` in a change of career.
 
@@ -14,14 +14,18 @@ I believe development is fundamentally a technical manifestation of very specifi
 
 I frequently attend lectures and conferences to keep up to date with the fast paced changes in technology.
 
-**Please click one of the dropdowns below to expand them**
+**Please expand the dropdowns below by clicking on them**
 
 <details><summary>Skills</summary>
 <p>
 
 ## Skills
 
-#### This Skill
+#### Github
+
+| Link | Summary | Resources | something |
+| :---: | :---: | :---: | :---: |
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -45,6 +49,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 <p>
 
 ## Projects
+
+| Link | Summary | Technologies used | Status |
+| :---: | :---: | :---: | :---: |
+| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). The application then starts it's cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words is scraped off the site and compared to the inputed list. The cycle continues until every word has been found. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | WIP |
+| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Rails, CSS, AWS Elastic Beanstalk | WIP |\\\s
 
 </p>
 </details>
