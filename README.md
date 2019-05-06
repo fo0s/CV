@@ -23,12 +23,11 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 #### Github
 
-| Progress | Summary | Skills learnt
+| Progress | Summary | Skills learnt |
 | :---: | :---: | :---: | :---: |
-| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | A platform used to store code and <br>colaborate interactively with a team. | Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching)
+| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | A platform used to store code and <br>colaborate interactively with a team. | Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) |
 
 #### Ruby
-
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
