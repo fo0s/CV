@@ -2,7 +2,7 @@
 <h1><a name="cv"><img align="left" src="./Images/cv.png" height="50"/></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="150"/></a></h1>
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:biernat.bart@gmail.com">Bart Biernat</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 <br><br>
-<p align="center" ><a name="journey"><img src="./Images/logo.png" width="700"/></a></p>
+<p align="center" ><a name="journey"><img src="./Images/logo.png"/></a></p>
 
 **A web version of this CV can be found** [HERE](https://fo0s.github.io/)
 
