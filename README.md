@@ -24,7 +24,7 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 | **Github** | **Ruby** | **Javascript** |
 | :---: | :---: | :---: |
 | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/65?title=Skill%20level) | ![Progress](http://progressed.io/bar/45?title=Skill%20level) |
-| A platform used to store code and <br>colaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose<br> programming language. | JavaScript often abbreviated as JS, <br>is a high-level, interpreted programming <br>language that conforms to the <br>ECMAScript specification. |
+| A platform used to store code and colaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose programming language. | JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. |
 | Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
 
 <br>
@@ -33,7 +33,7 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 | :---: | :---: | :---: |
 | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/90?title=Skill%20level) |
 | A blockchain is a growing list of records, <br>called blocks, which are linked <br>using cryptography. | The protection of computer systems from <br>theft or damage to their hardware, software <br>or electronic data, as well as from disruption<br> or misdirection of the services they provide. | Leadership is both a research area and<br> a practical skill encompassing the ability <br>of an individual or organization to "lead" <br>or guide other individuals, teams, or<br> entire organizations. |
-| Built and utilised multiple <br>mining rigs from scratch,<br>Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br>Blockchain Architecture,<br>Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the running <br>of the business. 
+| Built and utilised multiple <br>mining rigs from scratch,<br>Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br>Blockchain Architecture,<br>Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business. 
 
 <br>
 
