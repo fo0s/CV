@@ -23,8 +23,11 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 #### Github
 
-| Link | Summary | Resources | something |
+| Progress | Summary | Skills learnt
 | :---: | :---: | :---: | :---: |
+| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | A platform used to store code and <br>colaborate interactively with a team. | Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching)
+
+#### Ruby
 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -52,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 | Link | Summary | Technologies used | Status |
 | :---: | :---: | :---: | :---: |
-| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). The application then starts it's cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words is scraped off the site and compared to the inputed list. The cycle continues until every word has been found. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | WIP |
+| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). The application then starts it's cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words are scraped off the site and compared to the inputed list. The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | WIP |
 | [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Rails, CSS, AWS Elastic Beanstalk | WIP |\\\s
 
 </p>
