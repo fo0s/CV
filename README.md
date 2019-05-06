@@ -21,12 +21,11 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 ## Skills
 
-#### Github
-![Progress](http://progressed.io/bar/80?title=Skill%20level)
-
-| Summary | Skills learnt |
+| **Github** | **Ruby** | **Javascript** |
 | :---: | :---: | :---: |
-| A platform used to store code and <br>colaborate interactively with a team. | Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) |
+| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/65?title=Skill%20level) | ![Progress](http://progressed.io/bar/45?title=Skill%20level) |
+| A platform used to store code and <br>colaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose<br> programming language. | JavaScript often abbreviated as JS, <br>is a high-level, interpreted programming <br>language that conforms to the <br>ECMAScript specification. |
+| Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
 
 #### Ruby
 
