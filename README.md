@@ -15,26 +15,26 @@ I believe development is fundamentally a technical manifestation of very specifi
 
 I frequently attend lectures and conferences to keep up to date with the fast paced changes in technology.
 
-**Please expand the dropdowns below by clicking on them**
+**Please expand the drop downs below by clicking on them**
 
 <details><summary>Skills</summary>
 <p>
 
 ## Skills
 
-| **Github** | **Ruby** | **Javascript** |
+| **GitHub** | **Ruby** | **JavaScript** |
 | :---: | :---: | :---: |
 | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/65?title=Skill%20level) | ![Progress](http://progressed.io/bar/45?title=Skill%20level) |
-| A platform used to store code and colaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose programming language. | JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. |
-| Git command line,<br>Markdown,<br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
+| A platform used to store code and collaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose programming language. | JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. |
+| Git command line,<br>Markdown, <br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
 
 <br>
 
 | **Blockchain technology** | **Cyber security** | **Leadership** |
 | :---: | :---: | :---: |
 | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/90?title=Skill%20level) |
-| A blockchain is a growing list of records, called blocks, which are linked using cryptography. It is considered by many as the future of currency | The protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide. | Leadership is both a research area and a practical skill encompassing the ability of an individual or organization to "lead" or guide other individuals, teams, or entire organizations. |
-| Built and utilised multiple <br>mining rigs from scratch,<br>Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br>Blockchain Architecture,<br>Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business. 
+| A blockchain is a growing list of records, called blocks, which are linked using cryptography. It is considered by many as the future of currency | The protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide. | Leadership is both a research area and a practical skill encompassing the ability of an individual or organisation to "lead" or guide other individuals, teams, or entire organisations. |
+| Built and utilized multiple <br>mining rigs from scratch,<br> Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br> Blockchain Architecture,<br> Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business. 
 
 <br>
 
@@ -48,7 +48,7 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 | Link | Summary | Technologies used | Status |
 | :---: | :---: | :---: | :---: |
-| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). <br>A user loads in a set of words <br>(poem, book, novel, series of books).<br>On completion, the application then<br> starts it's cycle by randomly generating<br> a string of letters for possible websites. <br>If a hit is found, all the words are<br> scraped off the site and compared to the inputed list. <br>The cycle continues until every <br>word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
+| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). <br>A user loads in a set of words <br>(poem, book, novel, series of books).<br> On completion, the application then<br> starts its cycle by randomly generating<br> a string of letters for possible websites. <br>If a hit is found, all the words are<br> scraped off the site and compared to the inputted list. <br>The cycle continues until every <br>word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
 | [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone.<br> We wanted to give it a MySpace feel <br>with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | ![Progress](http://progressed.io/bar/60?title=done) |
 
 </p>
@@ -61,12 +61,10 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 ### Makers Academy (February 2019 - Present)
 
-> Makers Academy is a 12-week computer programming bootcamp in London. 
+> Makers Academy is a 12-week computer programming boot camp in London. 
 > It was founded by Rob Johnson and Evgeny Shadchnev in December 2012
 > and is designed to turn people with no knowledge of web development 
 > into job-ready junior developers in 12 weeks.
-
-A 16-weeks intensive development bootcamp, focusing on :
 
 - Learning to learn fast: Be it with programming languages, methodologies or effective collaborations (TDD/BDD, OOP)
 - Problem solving: Individually, as a pair or as a group. Encouraging feedback and sharing learnings
@@ -99,7 +97,7 @@ A 16-weeks intensive development bootcamp, focusing on :
 
 ##### RIT - Cyber Security Risk Management
 - Information security risk management framework and methodologies
-- Identifying and modelling information `security` risks
+- Identifying and modeling information `security` risks
 - Qualitative and quantitative risk assessment methods
 - Articulating information security risks as business consequences
 
@@ -143,7 +141,7 @@ A 16-weeks intensive development bootcamp, focusing on :
 
 ## Experience
 
-#### Crypto-currency trader
+#### Cryptocurrency trader
 
 > May, 2017 — Present
 
@@ -168,7 +166,7 @@ Brought in to assist with new restaurant launch
 
 > Apr, 2014 — Oct, 2016
 
-Specialised in catering for ViP private events and for premium fashion clients.
+Specialized in catering for ViP private events and for premium fashion clients.
 
 #### The Savoy Hotel
 
@@ -178,7 +176,7 @@ Worked in private events, ranging from intimate dining to 600+ banquets
 
 - Managed a team of 12 chefs  
 - Responsible for creating daily prep schedules  
-- Co-ordinating events with pastry, front of house, HR and hotel management.
+- Coordinating events with pastry, front of house, HR and hotel management.
 
 </p>
 </details>
@@ -190,7 +188,7 @@ Worked in private events, ranging from intimate dining to 600+ banquets
 
 I have a fascination with all things fermentation. A plethora of bubbling jars
 in my kitchen eventually turn into breads, pickles or wines. When I’m not
-playing food scientist or in front on the computer, I’m out running,
+playing food scientist or in front of the computer, I’m out running,
 skateboarding, climbing or taking something apart to see how it works.
 
 </p>
