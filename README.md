@@ -5,7 +5,8 @@
 <p align="center" ><a name="journey"><img src="./Images/logo.png"/></a></p>
 
 
-# Bart Biernat
+# Bart Biernat ![Progress](https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667)
+
 > Level: Programmer in training
 
 I am a `solution-oriented` and `proactive` person who is looking to harness my passion for `programming` in a change of career.
@@ -58,16 +59,30 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 ## Education
 
-### Makers Academy (February 2018 - Present)
+### Makers Academy (February 2019 - Present)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+> Makers Academy is a 12-week computer programming bootcamp in London. 
+> It was founded by Rob Johnson and Evgeny Shadchnev in December 2012
+> and is designed to turn people with no knowledge of web development 
+> into job-ready junior developers in 12 weeks.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+A 16-weeks intensive development bootcamp, focusing on :
+
+- Learning to learn fast: Be it with programming languages, methodologies or effective collaborations (TDD/BDD, OOP)
+- Problem solving: Individually, as a pair or as a group. Encouraging feedback and sharing learnings
+- Agile and XP values, scrum methodology, pair programming. Respecting my pair partners/team mates, having the courage to give feedback. To communicate and keep things simple keeps the team efficient.
+
+- Technologies learnt; 
+    -Ruby 
+    -Rails 
+    -RSpec 
+    -Sinatra 
+    -Capybara 
+    -Selenium 
+    -JavaScript 
+    -Jasmine 
+    -Cypress 
+    -PostgreSQL
 
 
 ### edX - Online University level courses (2017 - 2018)
@@ -128,10 +143,42 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+#### Crypto-currency trader
+
+> May, 2017 — Present
+
+Trading between Bitcoin and alternative currencies.
+
+- Built and managed multiple mining rigs.  
+- Exploring the potential of Blockchain technology.
+
+#### La Bonne Bouffe
+
+> Nov, 2016 — Apr, 2017
+
+Brought in to assist with new restaurant launch
+
+- Created and costed menus.  
+- Established relationships with suppliers  
+- Hired & trained staff  
+- Responsible for implementing all health and safety standards  
+- Set up the POS system, costing and inventory systems.
+
+#### Claire’s Chefs
+
+> Apr, 2014 — Oct, 2016
+
+Specialised in catering for ViP private events and for premium fashion clients.
+
+#### The Savoy Hotel
+
+> Oct, 2011 — Nov, 2013
+
+Worked in private events, ranging from intimate dining to 600+ banquets
+
+- Managed a team of 12 chefs  
+- Responsible for creating daily prep schedules  
+- Co-ordinating events with pastry, front of house, HR and hotel management.
 
 </p>
 </details>
