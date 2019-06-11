@@ -2,7 +2,6 @@
 <h1><a name="cv"><img align="left" src="./Images/cv.png" height="45"></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="80"/></a></h1>
     
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:biernat.bart@gmail.com">Bart Biernat</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
-<a href="https://www.codewars.com/users/fo0s"><img align="right" src="https://www.codewars.com/users/fo0s/badges/micro"></img></a>
 <br><br>
 <p align="center" ><a name="journey"><img src="./Images/logo.png"/></a></p>
 
