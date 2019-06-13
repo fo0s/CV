@@ -1,11 +1,12 @@
 
-<h1><a name="cv"><img align="left" src="./Images/cv.png" height="45"/></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="80"/></a></h1>
+<h1><a name="cv"><img align="left" src="./Images/cv.png" height="45"></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="80"/></a></h1>
+    
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:biernat.bart@gmail.com">Bart Biernat</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 <br><br>
 <p align="center" ><a name="journey"><img src="./Images/logo.png"/></a></p>
 
 
-# Bart Biernat ![Progress](https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667)
+# Bart Biernat ![Progress](https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667)  
 
 > Level: Programmer in training
 
