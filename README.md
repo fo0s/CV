@@ -197,4 +197,5 @@ skateboarding, climbing or taking something apart to see how it works.
 </p>
 </details>
 
-**A web version of this CV can be found** [HERE](https://fo0s.github.io/)
+<!-- **A web version of this CV can be found** [HERE](https://fo0s.github.io/)
+https://en.wikipedia.org/wiki/Time_complexity -->
