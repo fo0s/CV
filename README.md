@@ -3,7 +3,6 @@
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:biernat.bart@gmail.com">Bart Biernat</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 <br><br>
 <p align="center" ><a name="journey"><img src="./Images/logo.png"/></a></p>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
 # Bart Biernat ![Progress](https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667)  
 
@@ -22,14 +21,14 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 <p>
 
 
-| <i class="fab fa-github fa-2x" style="color:black;"></i> GitHub | <i class="far fa-gem fa-2x" style="color:red;"></i> Ruby |  <i class="fab fa-js-square fa-2x" style="color:yellow"></i>  JavaScript |
+| ![Github](Images/github1.png) GitHub | ![Ruby](Images/ruby.png) Ruby | ![Javascript](Images/js.png) JavaScript |
 | :---: | :---: | :---: |
 | A platform used to store code and collaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose programming language. | JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. |
 | Git command line,<br>Markdown, <br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
 
 <br>
 
-| <i class="fab fa-bitcoin fa-2x" style="color:orange"></i> Blockchain technology | <i class="fas fa-shield-alt fa-2x" style="color:lightblue"></i> Cyber security | <i class="fas fa-users fa-2x" style="color:violet"></i> Leadership |
+| ![Blockchain](Images/bitcoin.png) Blockchain technology | ![sheild](Images/shield.png) Cyber security | ![Leadership](Images/lead.png) Leadership |
 | :---: | :---: | :---: |
 | A blockchain is a growing list of records, called blocks, which are linked using cryptography. It is considered by many as the future of currency | The protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide. | Leadership is both a research area and a practical skill encompassing the ability of an individual or organisation to "lead" or guide other individuals, teams, or entire organisations. |
 | Built and utilized multiple <br>mining rigs from scratch,<br> Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br> Blockchain Architecture,<br> Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business. 
