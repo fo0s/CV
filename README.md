@@ -25,7 +25,7 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 | **GitHub** | **Ruby** | **JavaScript** |
 | :---: | :---: | :---: |
-| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/65?title=Skill%20level) | ![Progress](http://progressed.io/bar/45?title=Skill%20level) |
+| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/45?title=Skill%20level) |
 | A platform used to store code and collaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose programming language. | JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. |
 | Git command line,<br>Markdown, <br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
 
@@ -33,7 +33,7 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 | **Blockchain technology** | **Cyber security** | **Leadership** |
 | :---: | :---: | :---: |
-| ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/90?title=Skill%20level) |
+| ![Progress](http://progressed.io/bar/85?title=Skill%20level) | ![Progress](http://progressed.io/bar/80?title=Skill%20level) | ![Progress](http://progressed.io/bar/90?title=Skill%20level) |
 | A blockchain is a growing list of records, called blocks, which are linked using cryptography. It is considered by many as the future of currency | The protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide. | Leadership is both a research area and a practical skill encompassing the ability of an individual or organisation to "lead" or guide other individuals, teams, or entire organisations. |
 | Built and utilized multiple <br>mining rigs from scratch,<br> Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br> Blockchain Architecture,<br> Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business. 
 
@@ -49,8 +49,10 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 | Link | Summary | Technologies used | Status |
 | :---: | :---: | :---: | :---: |
-| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). <br>A user loads in a set of words <br>(poem, book, novel, series of books).<br> On completion, the application then<br> starts its cycle by randomly generating<br> a string of letters for possible websites. <br>If a hit is found, all the words are<br> scraped off the site and compared to the inputted list. <br>The cycle continues until every <br>word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
-| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone.<br> We wanted to give it a MySpace feel <br>with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | ![Progress](http://progressed.io/bar/60?title=done) |
+| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). On completion, the application then starts its cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words are scraped off the site and compared to the inputted list. The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
+| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | ![Progress](http://progressed.io/bar/60?title=done) |
+| [ReciPeeps](https://github.com/fo0s/ReciPeeps) |  Makers final project. As a team, we were tasked with making a personal development application. We came up with Recipeeps, a social place where people can post recipes, have them voted up by popularity and eventually build up their own personal cookbook that can be printed and sent as a physical object. | Ruby, Rails, CSS, Heroku, Javascript, Travis | ![Progress](http://progressed.io/bar/95?title=done) |
+| [Algorithm Complexity](https://github.com/fo0s/AlgorithmComplexity ) | My personal playground to replicate and understand how methods are build and tweaked to get the best possible result. | Ruby, Google API, [Time complexity theories](https://en.wikipedia.org/wiki/Time_complexity) | Ongoing |
 
 </p>
 </details>
