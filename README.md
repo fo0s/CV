@@ -13,8 +13,6 @@ I am a `solution-oriented` and `proactive` person who is looking to harness my p
 
 I believe development is fundamentally a technical manifestation of very specific skill sets that requires you to constantly question the world around you. I have a `natural curiosity` for how things work; from taking apart mobile handsets to `penetration testing` and `bug bounties` which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
 
-I frequently attend lectures and conferences to keep up to date with the fast paced changes in technology.
-
 **Please expand the drop downs below by clicking on them**
 
 <details><summary>Skills</summary>
@@ -23,15 +21,14 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 | ![Github](Images/github1.png)<br>GitHub | ![Ruby](Images/ruby.png)<br>Ruby | ![Javascript](Images/js.png)<br>JavaScript |
 | :---: | :---: | :---: |
-| A platform used to store code and collaborate interactively with a team. | Ruby is an interpreted, high-level, general-purpose programming language. | JavaScript often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. |
-| Git command line,<br>Markdown, <br>Repo collaboration,<br>Merge conflicts,<br>Work flows (branching) | Gems,<br>Rails,<br>Sinatra,<br>Rspec,<br>Capybara<br> | Vanilla,<br>React.js,<br>jquery,<br>Node.js |
+| Git command line, Markdown, Repo collaboration, Merge conflicts, Work flows (branching) | Gems, Rails, Sinatra, Rspec, Capybara | Vanilla, React.js, jquery, Node.js |
 
 <br>
 
 | ![Blockchain](Images/bitcoin.png)<br>Blockchain technology | ![sheild](Images/shield.png)<br>Cyber security | ![Leadership](Images/lead.png)<br>Leadership |
 | :---: | :---: | :---: |
 | A blockchain is a growing list of records, called blocks, which are linked using cryptography. It is considered by many as the future of currency | The protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide. | Leadership is both a research area and a practical skill encompassing the ability of an individual or organisation to "lead" or guide other individuals, teams, or entire organisations. |
-| Built and utilized multiple <br>mining rigs from scratch,<br> Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br> Blockchain Architecture,<br> Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite<br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business. 
+| Built and utilized multiple <br>mining rigs from scratch,<br> Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br> Blockchain Architecture,<br> Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite, <br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business. 
 
 <br>
 
@@ -44,10 +41,10 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 
 | Link | Summary | Technologies used | Status |
 | :---: | :---: | :---: | :---: |
-| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). On completion, the application then starts its cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words are scraped off the site and compared to the inputted list. The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | ![Progress](http://progressed.io/bar/85?title=done) |
-| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | ![Progress](http://progressed.io/bar/60?title=done) |
-| [ReciPeeps](https://github.com/fo0s/ReciPeeps) |  Makers final project. As a team, we were tasked with making a personal development application. We came up with Recipeeps, a social place where people can post recipes, have them voted up by popularity and eventually build up their own personal cookbook that can be printed and sent as a physical object. | Ruby, Rails, CSS, Heroku, Javascript, Travis | ![Progress](http://progressed.io/bar/95?title=done) |
-| [Algorithm Complexity](https://github.com/fo0s/AlgorithmComplexity ) | My personal playground to replicate and understand how methods are build and tweaked to get the best possible result. | Ruby, Google API, [Time complexity theories](https://en.wikipedia.org/wiki/Time_complexity) | Ongoing |
+| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). On completion, the application then starts its cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words are scraped off the site and compared to the inputted list. The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<br> ![Progress](http://progressed.io/bar/85?title=done)<br> [![Coverage Status](https://coveralls.io/repos/github/fo0s/10monkeys/badge.svg?branch=master)](https://coveralls.io/github/fo0s/10monkeys?branch=master)<br>[![Build Status](https://travis-ci.org/fo0s/10monkeys.svg?branch=master)](https://travis-ci.org/fo0s/10monkeys) |
+| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | [![Build Status](https://travis-ci.org/samanthaixer/acebook-roku.svg?branch=master)](https://travis-ci.org/samanthaixer/acebook-roku)<br>[![Coverage Status](https://coveralls.io/repos/github/samanthaixer/acebook-roku/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/github/samanthaixer/acebook-roku?branch=master&kill_cache=1)<br>![Progress](http://progressed.io/bar/60?title=done) |
+| [ReciPeeps](https://github.com/fo0s/ReciPeeps) |  Makers final project. As a team, we were tasked with making a personal development application. We came up with Recipeeps, a social place where people can post recipes, have them voted up by popularity and eventually build up their own personal cookbook that can be printed and sent as a physical object. | Ruby, Rails, CSS, Heroku, Javascript, Travis | [![Build Status](https://travis-ci.org/harrygalliano/ReciPeeps.svg?branch=master)](https://travis-ci.org/harrygalliano/ReciPeeps)<br>[![Coverage Status](https://coveralls.io/repos/github/harrygalliano/ReciPeeps/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/repos/github/harrygalliano/ReciPeeps?branch=master&kill_cache=1)<br>![Progress](http://progressed.io/bar/95?title=done) |
+| [Algorithm Complexity](https://github.com/fo0s/AlgorithmComplexity ) | My personal playground to replicate and understand how methods are build and tweaked to get the best possible result. | Ruby, Google API, [Time complexity theories](https://en.wikipedia.org/wiki/Time_complexity) | [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)<br>![Ongoing](https://img.shields.io/badge/Status-Ongoing-orange.svg) |
 
 </p>
 </details>
@@ -180,8 +177,9 @@ Worked in private events, ranging from intimate dining to 600+ banquets
 <details><summary>When I'm not programming</summary>
 <p>
 
+I frequently attend lectures and conferences to keep up to date with the fast paced changes in technology.
 
-I have a fascination with all things fermentation. A plethora of bubbling jars
+I also have a fascination with all things fermentation. A plethora of bubbling jars
 in my kitchen eventually turn into breads, pickles or wines. When I’m not
 playing food scientist or in front of the computer, I’m out running,
 skateboarding, climbing or taking something apart to see how it works.
