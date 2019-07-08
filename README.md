@@ -11,7 +11,7 @@
 
 I am a `solution-oriented` and `proactive` person who is looking to harness my passion for `programming` in a change of career.
 
-I believe development is fundamentally a technical manifestation of very specific skill sets that requires you to constantly question the world around you. I have a `natural curiosity` for how things work; from taking apart mobile handsets to `penetration testing` and `bug bounties` which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
+I believe development is fundamentally a technical manifestation of very specific skill set that requires you to constantly question the world around you. I have a `natural curiosity` for how things work; from taking apart mobile handsets to `penetration testing` and `bug bounties` which I hope will serve me well in an industry where, to succeed, it is necessary to have an urge to understand things completely.
 
 **Please expand the drop downs below by clicking on them**
 
@@ -56,10 +56,10 @@ I believe development is fundamentally a technical manifestation of very specifi
 
 ### Makers Academy (February 2019 - Present)
 
-> Makers Academy is a 12-week computer programming boot camp in London. 
+> Makers Academy is a computer programming boot camp in London. 
 > It was founded by Rob Johnson and Evgeny Shadchnev in December 2012
 > and is designed to turn people with no knowledge of web development 
-> into job-ready junior developers in 12 weeks.
+> into job-ready junior developers.
 
 - Learning to learn fast: Be it with programming languages, methodologies or effective collaborations (TDD/BDD, OOP)
 - Problem solving: Individually, as a pair or as a group. Encouraging feedback and sharing learnings
