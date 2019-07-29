@@ -9,7 +9,8 @@
 <a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/Ruby-588%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/Python-58%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/CSS-449%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/Python-58%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/HTML-153%20commits-orange.svg" alt=""></a>
+
 
 I am a `solution-oriented` and `proactive` person who is looking to harness my passion for `programming` in a change of career.
 
