@@ -6,8 +6,10 @@
 
 # Bart Biernat ![Progress](https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667)  
 
-
-> Level: Programmer in training
+<a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/Ruby-588%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/Python-58%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/CSS-449%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/Python-58%20commits-orange.svg" alt=""></a>
 
 I am a `solution-oriented` and `proactive` person who is looking to harness my passion for `programming` in a change of career.
 
